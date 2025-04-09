@@ -11,6 +11,7 @@ conda create --name FreeEdit python=3.10
 conda activate FreeEdit
 
 Then install the required packages
+
 ```bash
 pip install openai==0.28
 pip install point-cloud-utils
