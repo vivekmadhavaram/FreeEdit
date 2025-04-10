@@ -1,7 +1,7 @@
 # FreeEdit : Towards a Training Free Approach for 3D Scene Editing
 
 
-![image](https://github.com/user-attachments/assets/4fbb1afe-d964-4ae1-b15c-bc95d72cf1ad)
+<img src="https://github.com/user-attachments/assets/4fbb1afe-d964-4ae1-b15c-bc95d72cf1ad" alt="Alt text" width="300" height="200"/>
 
 <div align="center">
 
