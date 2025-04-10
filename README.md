@@ -3,10 +3,15 @@
 
 ![image](https://github.com/user-attachments/assets/4fbb1afe-d964-4ae1-b15c-bc95d72cf1ad)
 
+<p align="center">
+
 ### [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Madhavaram_Towards_a_Training_Free_Approach_for_3D_Scene_Editing_WACV_2025_paper.pdf) | [Project Page](https://vivekmadhavaram.github.io/FreeEdit_page/) | [Video](https://www.youtube.com/watch?v=hmpQZUqD2tA) | [ArXiv](https://arxiv.org/abs/2412.12766)
 
-#### [Vivek Madhavaram](https://vivekmadhavaram.github.io/vivek_page/) | Shivangana Rawat | [Chaitanya Devaguptapu](https://chaitanya.one/) | [Charu Sharma](https://charusharma.org/) | [Manohar Kaul](https://scholar.google.dk/citations?user=jNroyK4AAAAJ&hl=en)
+#### [Vivek Madhavaram](https://vivekmadhavaram.github.io/vivek_page/)<sup>1</sup> | Shivangana Rawat<sup>2</sup> | [Chaitanya Devaguptapu](https://chaitanya.one/)<sup>2</sup> | [Charu Sharma](https://charusharma.org/)<sup>1</sup> | [Manohar Kaul](https://scholar.google.dk/citations?user=jNroyK4AAAAJ&hl=en)<sup>2</sup>
 
+<sup>1</sup> MLL, IIIT Hyderabad, <sup>2</sup>Fujitsu Research India
+
+</p>
 
 ## Setup 
 Clone the repository and create a conda environment as below:
