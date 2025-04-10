@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/4fbb1afe-d964-4ae1-b15c-bc95d72cf1ad)
 
-<p style="text-align: center;">
+<div align="center">
 
 ### [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Madhavaram_Towards_a_Training_Free_Approach_for_3D_Scene_Editing_WACV_2025_paper.pdf) | [Project Page](https://vivekmadhavaram.github.io/FreeEdit_page/) | [Video](https://www.youtube.com/watch?v=hmpQZUqD2tA) | [ArXiv](https://arxiv.org/abs/2412.12766)
 
@@ -11,7 +11,7 @@
 
 <sup>1</sup> MLL, IIIT Hyderabad, <sup>2</sup>Fujitsu Research India
 
-</p>
+</div>
 
 ## Setup 
 Clone the repository and create a conda environment as below:
