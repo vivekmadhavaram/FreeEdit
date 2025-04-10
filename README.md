@@ -3,7 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/4fbb1afe-d964-4ae1-b15c-bc95d72cf1ad)
 
-### [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Madhavaram_Towards_a_Training_Free_Approach_for_3D_Scene_Editing_WACV_2025_paper.pdf)|[Project Page](https://vivekmadhavaram.github.io/FreeEdit_page/)|[Video](https://www.youtube.com/watch?v=hmpQZUqD2tA)|[ArXiv](https://arxiv.org/abs/2412.12766)
+### [Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Madhavaram_Towards_a_Training_Free_Approach_for_3D_Scene_Editing_WACV_2025_paper.pdf) | [Project Page](https://vivekmadhavaram.github.io/FreeEdit_page/) | [Video](https://www.youtube.com/watch?v=hmpQZUqD2tA) | [ArXiv](https://arxiv.org/abs/2412.12766)
+
+#### [Vivek Madhavaram](https://vivekmadhavaram.github.io/vivek_page/) | Shivangana Rawat | [Chaitanya Devaguptapu](https://chaitanya.one/) | [Charu Sharma](https://charusharma.org/) | [Manohar Kaul](https://scholar.google.dk/citations?user=jNroyK4AAAAJ&hl=en)
+
 
 ## Setup 
 Clone the repository and create a conda environment as below:
