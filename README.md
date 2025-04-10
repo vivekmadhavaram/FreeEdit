@@ -42,7 +42,9 @@ pip install -e .
 cd ..
 ```
 #### Install and run [OpenMask3D](https://github.com/OpenMask3D/openmask3d) 
-Follow the procedure mention in the main repo to generate object masks and save them in the output directory. Download the Add the output directory path in the config.py file.
+Follow the procedure mention in the main repo to generate object masks and save them in the output directory. Download the Add the output directory path in the config.py file. Download and preprocess the data as mentioned [here](https://github.com/OpenMask3D/openmask3d?tab=readme-ov-file#step-1-download-and-pre-process-the-scannet200-dataset- for ScanNet. 
+Perform similar steps for Replica Dataset as well.
+Add the data path to config.py
 
 #### Install other packages
 ```bash
