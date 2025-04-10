@@ -34,6 +34,42 @@ pip install pandas
 pip install open3d
 ```
 
+#### Setup [Shap-E](https://github.com/openai/shap-e) for object synthesis
+```bash
+git clone https://github.com/openai/shap-e
+cd shap-e
+pip install -e .
+cd ..
+```
+#### Install and run [OpenMask3D](https://github.com/OpenMask3D/openmask3d) 
+Follow the procedure mention in the main repo to generate object masks and save them in the output directory. Download the Add the output directory path in the config.py file.
+
+#### Install other packages
+```bash
+pip install pyyaml
+pip install ipywidgets
+pip install scikit-learn
+pip install diffusers
+pip install transformers
+pip install numpy==1.24.3
+```
+
+#### Setup [GroundingDINO](https://github.com/IDEA-Research/Grounded-Segment-Anything)
+```bash
+git clone https://github.com/IDEA-Research/GroundingDINO.git
+cd GroundingDINO
+pip install -q -e .
+pip install -q roboflow
+cd ..
+```
+
+### Run FreeEdit
+Execute the below command to run the code. Add your OpenAPI key and chnage th prompt accordingly.
+```bash
+python main.py --api "" --scene office2 --prompt "insert candle on the desk"
+```
+Replace the prompt for replacement and deletion tasks.
+Output will be saved as "Result.ply" which can be loaded into any visualization tool like Blender, Meshlab, etc.
 
 
 
