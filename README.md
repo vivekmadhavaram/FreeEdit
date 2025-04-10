@@ -9,7 +9,7 @@ Clone the repository and create a conda environment as below:
 ```bash
 conda create --name FreeEdit python=3.10
 conda activate FreeEdit
-
+```
 Then install the required packages
 
 ```bash
