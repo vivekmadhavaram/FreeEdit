@@ -47,9 +47,6 @@ Add the data path to config.py
 
 #### Install other packages
 ```bash
-pip install pyyaml
-pip install ipywidgets
-pip install scikit-learn
 pip install diffusers
 pip install transformers
 pip install numpy==1.24.3
