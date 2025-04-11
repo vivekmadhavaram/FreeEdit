@@ -30,7 +30,6 @@ pip install point-cloud-utils
 pip install trimesh
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install clip
-pip install pandas
 pip install open3d
 ```
 
